@@ -71,7 +71,7 @@ const Hero=()=>{
     },[])
 
   return (
-    <div id='homepage' className=' text-white relative w-[100vw] h-[110vh] flex flex-col md:flex-row pt-[22%] sm:pt-[15%] md:pt-0 items-center  md:justify-around '>
+    <div id='homepage' className=' text-white relative w-[100vw] h-[105vh] flex flex-col gap-12 sm:gap-0 md:flex-row pt-[22%] sm:pt-[15%] md:pt-0 justify-center items-center  md:justify-around '>
          <Sidebar/>
      {/* / left section hai bhai */}
         <div style={{ color: changebg ? 'black' : 'white' }}
@@ -102,7 +102,7 @@ const Hero=()=>{
                 As a frontend developer, I craft resposive and user-friendly website interfaces using HTML,Tailwind CSS, JavaScript and React js, which attract user to stay long time.
             </p>
             
-            <div className='flex mt-3 flex-col sm:flex-row lg:gap-10 gap-3 '>
+            <div className='flex mt-3 flex-row lg:gap-10 gap-3 '>
                <div
                     data-aos="zoom-in"
                     data-aos-duration="5000"

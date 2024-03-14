@@ -22,7 +22,7 @@ useEffect(()=>{
 
     <div 
         style={{color: changebg ? 'black' : 'white', background:changebg?'white':'black'}}
-        className='fixed  z-10 shadow-white shadow-sm w-full text-white h-20 bg-white items-center flex flex-row justify-between  md:px-[10%]'>
+        className='fixed  z-10 shadow-white shadow-sm w-full text-white h-16 sm:h-20 bg-white items-center flex flex-row justify-between  md:px-[10%]'>
         <Link  data-aos="zoom-in"  activeClass="active"  smooth={true} to='homepage' >
             <img src={rrrrr} className=' scale-150 sm:scale-100 md:scale-100 ml-10 md:ml-1 ' alt="" />
         </Link>
