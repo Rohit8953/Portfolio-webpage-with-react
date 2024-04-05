@@ -12,7 +12,7 @@ const Sidebar = () => {
   const [Sidebar, setsidebar] = useState(true);
 
   return (
-    <div className="  fixed z-50 left-2 top-[15%] md:hidden bg-white bg-opacity-20 rounded-md backdrop-filter  backdrop-blur-3xl  h-fit  w-fit transition-all duration-300">
+    <div className="  fixed z-50 left-2 top-[12%] sm:top-[15%] md:hidden bg-white bg-opacity-20 rounded-md backdrop-filter  backdrop-blur-3xl  h-fit  w-fit transition-all duration-300">
       <div
         style={{ color: changebg ? "black" : "white" }}
         className=" w-full flex flex-row justify-end"

@@ -339,23 +339,23 @@ export const chartdata2={
     year:'2022-Present',
     education:"Bachelor's in Information Technology",
     college:'Bundelkhand Institute Of Engineering and Technology',
-    about:'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    about:'Pursuing B.Tech with Information Technology branch',
     score:'CGPA:7.93',
     sem:'(till 1st year)'
   },
   {
     year:'2020-2021',
     education:"Intermediate",
-    college:'Bundelkhand Institute Of Engineering and Technology',
-    about:'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    college:'St. Thomas Enter College Shahganj Jaunpur UP',
+    about:'Completed my 10th from a UP board affiliated Institute',
     perc:'Percentage:',
     score:'77.7%',
   },
   {
     year:'2019-2020',
     education:"High-school",
-    college:'Bundelkhand Institute Of Engineering and Technology',
-    about:'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    college:'Kumudini UMV Harwa Azamgarh Uttar Pradesh.',
+    about:'Completed my 12th from a UP board affiliated Institute',
     perc:'Percentage:',
     score:'83.8%',
   },
@@ -368,20 +368,20 @@ export const edudata2=[
     year:'2023-Present',
     education:"Frontent Web developer and Coder",
     college:'Bundelkhand Institute Of Engineering and Technology',
-    about:'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    about:'My objective is to create user-centric web experiences.',
     
   },
   {
     year:'2020-2021',
     education:"Coordinator",
     college:'The Syntax Society',
-    about:'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    about:'A dedicated member of coding club of B.I.E.T Jhansi',
   },
   {
     year:'2019-2020',
     education:"Coordinator",
     college:'The Syntax Society',
-    about:'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    about:'A dedicated member of forum of Information Technology',
   },
  ]
 

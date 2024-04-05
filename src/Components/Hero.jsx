@@ -107,7 +107,9 @@ const Hero=()=>{
                     data-aos="zoom-in"
                     data-aos-duration="5000"
                     data-aos-delay="1000">
-                    <button className='btn hover:scale-110 bg-cyan-400 transition-all duration-200  hover:bg-cyan-400 hover:text-white p-1 w-[9rem]  border-2  rounded-lg px-4'>Download CV</button>
+                    <button className='btn hover:scale-110 bg-cyan-400 transition-all duration-200  hover:bg-cyan-400 hover:text-white p-1 w-[9rem]  border-2  rounded-lg px-4'>
+                        <a href="https://drive.google.com/file/d/1-GHYNUlDsfGmhRVzLMfdXeDJ45xClAlw/view?usp=drivesdk">Download CV</a>
+                    </button>
                </div>
 
                <div 

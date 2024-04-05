@@ -35,7 +35,6 @@ function App(){
             <Myproject/>
             <Contactme/>
             <Footer/>
-            
        </div>
   );
 }
