@@ -13,7 +13,6 @@ import 'aos/dist/aos.css';
 import { Portfoliocontext } from "./Portfoliocontext";
 
 function App(){
-
       const{ 
           changebg
      }=useContext(Portfoliocontext);

@@ -7,6 +7,7 @@ import rrrrr from './rrrrr.png'
 import { Link } from 'react-scroll';
 import { Portfoliocontext } from '../Portfoliocontext';
 import { IoSunny } from "react-icons/io5";
+
 const Navbar = () =>{
     const{
         changebg,
