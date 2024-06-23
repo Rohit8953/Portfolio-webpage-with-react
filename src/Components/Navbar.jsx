@@ -54,7 +54,7 @@ useEffect(()=>{
         <div className='absolute right-5 md:relative md:right-0'>
             <div className='shadow-slate-700 shadow-inner flex flex-row border-2 rounded-3xl p-1 gap-1'>
                 <IoMoonOutline className=" rotate-12 " onClick={()=>setchangebg(false)}/>
-                <IoSunny onClick={()=>setchangebg(true)} />    
+                <IoSunny onClick={()=>setchangebg(true)}/>    
             </div>
         </div>
     </div>

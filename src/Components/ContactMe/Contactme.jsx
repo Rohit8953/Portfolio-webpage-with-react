@@ -44,11 +44,11 @@ const Contactme=()=>{
 
                   <legend className='ml-[5%] text-2xl'>Send me a massage</legend>
                   <div className='mx-auto flex flex-row justify-between w-[90%]'>
-                      <input type="text" className='pl-2 w-[48%] bg-gray-200'  placeholder='Your Name......' />
-                      <input type="email" className='pl-2 w-[48%] bg-gray-200'  placeholder='Enter Your Email......' />
+                      <input type="text" className='pl-2 text-black w-[48%] bg-gray-200'  placeholder='Your Name......' />
+                      <input type="email" className='pl-2 w-[48%] text-black bg-gray-200'  placeholder='Enter Your Email......' />
                   </div>
-                  <input type="text" className='pl-2 bg-gray-200 mx-auto w-[90%]' placeholder='Subject......' /> 
-                  <textarea className='pl-2 bg-gray-200 mx-auto w-[90%]  border-2 border-black' placeholder='Write your massage......' name="" id="" cols="30" rows="10"></textarea>
+                  <input type="text" className='pl-2 text-black bg-gray-200 mx-auto w-[90%]' placeholder='Subject......' /> 
+                  <textarea className='pl-2 text-black bg-gray-200 mx-auto w-[90%]  border-2 border-black' placeholder='Write your massage......' name="" id="" cols="30" rows="10"></textarea>
                   <button className='btn bg-[#0ef] hover:scale-110 transition-all duration-200 rounded-md boder-2 border-white mx-auto border-2 w-fit p-1 px-3  mb-5'>Send me</button>
             </fieldset>
             

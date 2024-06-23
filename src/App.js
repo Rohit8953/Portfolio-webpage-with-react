@@ -16,13 +16,13 @@ function App(){
       const{ 
           changebg
      }=useContext(Portfoliocontext);
-
      useEffect(()=>{
           AOS.init({
               duration:1000,
           });
         
          },[]);
+
   return(
        <div className={changebg?'bg-white overflow-hidden':' bg-black overflow-hidden'}>
             <Navbar/> 

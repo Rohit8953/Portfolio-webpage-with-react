@@ -121,47 +121,47 @@ export const skilldata=[
 
 export const skilldata2hai=[
     {
-        linearhai:<Lineprog values={'80'}/>,
+        linearhai:<Lineprog values={'90'}/>,
         name:'Html',
         colorr:'orange',
         icons:<FaHtml5 />,
-        values:'80'
+        values:'90'
     },
     {
-        linearhai:<Lineprog values={'75'}/>,
+        linearhai:<Lineprog values={'85'}/>,
         name:'Css',
         icons:<DiCss3 />,
         colorr:'blue',
-        values:'75'
+        values:'85'
     },
     {
-        linearhai:<Lineprog values={'80'}/>,
+        linearhai:<Lineprog values={'90'}/>,
         name:'Tailwind css',
         icons:<SiTailwindcss />,
         colorr:'blue',
-        values:'80'
+        values:'90'
     },
     {
-        linearhai:<Lineprog values={'70'}/>,
+        linearhai:<Lineprog values={'80'}/>,
         name:'Java Script',
         icons:<DiJavascript />,
         colorr:'green',
-        values:'70'
+        values:'80'
     },
     {
-        linearhai:<Lineprog values={'85'}/>,
-        name:'React js',
+        linearhai:<Lineprog values={'90'}/>,
+        name:'React js ,Redux',
         icons:<FaReact />,
         colorr:'blue',
-        values:'85'
+        values:'90'
         
     },
     {
-        linearhai:<Lineprog values={'85'}/>,
-        name:'C++',
+        linearhai:<Lineprog values={'70'}/>,
+        name:'Node js,Express js,mongodb',
         icons:<TbBrandCpp />,
         colorr:'blue',
-        values:'85'
+        values:'70'
     }
     
 ]
@@ -380,7 +380,7 @@ export const edudata2=[
   {
     year:'2019-2020',
     education:"Coordinator",
-    college:'The Syntax Society',
+    college:'Student Councile of Information Technology branch',
     about:'A dedicated member of forum of Information Technology',
   },
  ]
